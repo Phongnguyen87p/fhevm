@@ -71,3 +71,11 @@ Follow the Season 3 campaign and contribute to Zama’s mission:
 - 🐦 X (Twitter): [@zama_fhe](https://x.com/zama_fhe)
 - 🌐 Website: [https://www.zama.ai](https://www.zama.ai)
 Welcome to Join the Zama Community! | 229489 members
+
+### 📅 Join the Journey
+Follow the Season 3 campaign and contribute to Zama’s mission:
+- 💬 Discord: [Join the Zama Community](https://discord.gg/zama)
+Discord
+Join the Zama Protocol Discord Server!
+
+Welcome to Join the Zama Community! | 229489 members
