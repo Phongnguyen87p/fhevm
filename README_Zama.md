@@ -147,3 +147,22 @@ fix(metadata): correct NFT attribute names
     { "trait_type": "Theme", "value": "AI & Privacy" }
   ]
 }
+
+docs(contribution): add community guidelines
+
+# 🤝 Contribution Guidelines — Zama Protocol
+
+We welcome contributors who believe in privacy and open innovation.
+
+### How to Contribute
+1. Fork the repository  
+2. Create a feature branch (git checkout -b feature/my-update)  
+3. Commit your changes (git commit -m "feat: ... ")  
+4. Push and open a Pull Request  
+
+### Code Style
+- Use Conventional Commits  
+- Keep PRs small and focused  
+- Include relevant documentation updates
+
+Thank you for helping build the encrypted future 🌍
