@@ -134,3 +134,16 @@ The Zama Bridge enables encrypted transactions between Ethereum and Base network
 
 ### 3️⃣ Future
 Interoperable FHE-enabled transactions across multiple EVM chains.
+
+fix(metadata): correct NFT attribute names
+
+{
+  "name": "Zama Season 3 NFT",
+  "description": "Official NFT representing participation in Zama Protocol Season 3 campaign.",
+  "image": "ipfs://QmZamaSeason3Image",
+  "attributes": [
+    { "trait_type": "Season", "value": "3" },
+    { "trait_type": "Category", "value": "Ecosystem" },
+    { "trait_type": "Theme", "value": "AI & Privacy" }
+  ]
+}
