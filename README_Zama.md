@@ -79,3 +79,14 @@ Discord
 Join the Zama Protocol Discord Server!
 
 Welcome to Join the Zama Community! | 229489 members
+
+feat(ai): integrate FHE-based AI use cases
+# 🧠 Zama AI + FHE Integration
+
+Zama enables developers to build AI applications that protect user privacy through FHE (Fully Homomorphic Encryption).
+
+### 🔹 Example Use Cases
+- Encrypted model inference on blockchain  
+- Privacy-preserving AI for DeFi risk scoring  
+- Federated learning with encrypted parameters
+Zama’s FHEVM merges AI + encryption, allowing computation directly on encrypted data.
