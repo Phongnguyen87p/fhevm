@@ -36,3 +36,17 @@ Season 3 marks a new phase of the ecosystem expansion — connecting innovations
    `bash
    git clone https://github.com/zama-ai/fhevm.git
    cd fhevm
+   ## 🌟 Zama Protocol Overview
+
+Zama is building the foundation for privacy-preserving blockchain technology using Fully Homomorphic Encryption (FHE).  
+The FHEVM (Fully Homomorphic Encryption Virtual Machine) enables on-chain computation on encrypted data — unlocking secure DeFi, AI, and digital economy applications.
+
+### 🔧 Key Highlights
+- 💠 FHE-based smart contracts (encrypted computation)
+- 🔗 Multi-chain compatibility
+- 🧠 AI + Privacy synergy
+- ⚡ Zama ecosystem expansion: Crypto, Energy, Economy, Earth, Bank, and AI
+
+### 🌍 Vision
+Empowering the next generation of secure, transparent, and decentralized economies.
+
