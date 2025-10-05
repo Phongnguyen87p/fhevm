@@ -107,3 +107,14 @@ Core Layers:
   - Earth 🌱
 
 All components share encrypted interoperability.
+
+chore(links): update community and resource URLs
+# 🌍 Zama Community & Resources
+
+| Platform | Link |
+|-----------|------|
+| Website | [https://www.zama.ai](https://www.zama.ai) |
+| Twitter/X | [https://x.com/zama_fhe](https://x.com/zama_fhe) |
+| Discord | [https://discord.gg/zama](https://discord.gg/zama) |
+| Documentation | [https://docs.zama.ai](https://docs.zama.ai) |
+| GitHub | [https://github.com/zama-ai](https://github.com/zama-ai) |
