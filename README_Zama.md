@@ -90,3 +90,20 @@ Zama enables developers to build AI applications that protect user privacy throu
 - Privacy-preserving AI for DeFi risk scoring  
 - Federated learning with encrypted parameters
 Zama’s FHEVM merges AI + encryption, allowing computation directly on encrypted data.
+
+docs(architecture): update ecosystem diagram
+# 🌐 Zama Ecosystem Architecture
+
+The Zama ecosystem connects multiple verticals through encrypted computation.
+
+Core Layers:
+- Zama FHEVM — foundation for encrypted smart contracts  
+- Zama Bridge — connects Ethereum ↔ Base ↔ Layer 2s  
+- Ecosystem Modules:
+  - Banking 🏦  
+  - AI 🤖  
+  - Crypto 💰  
+  - Energy ⚡  
+  - Earth 🌱
+
+All components share encrypted interoperability.
