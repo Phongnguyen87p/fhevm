@@ -118,3 +118,19 @@ chore(links): update community and resource URLs
 | Discord | [https://discord.gg/zama](https://discord.gg/zama) |
 | Documentation | [https://docs.zama.ai](https://docs.zama.ai) |
 | GitHub | [https://github.com/zama-ai](https://github.com/zama-ai) |
+
+feat(ecosystem): add Base network bridge guide
+
+# 🔗 Zama Bridge — Ethereum ↔ Base Network Guide
+
+### 1️⃣ Overview
+The Zama Bridge enables encrypted transactions between Ethereum and Base network using FHEVM-compatible smart contracts.
+
+### 2️⃣ Setup Steps
+1. Deploy bridge contract on both chains  
+2. Register encryption keys  
+3. Configure relayer node  
+4. Test encrypted data transfer
+
+### 3️⃣ Future
+Interoperable FHE-enabled transactions across multiple EVM chains.
